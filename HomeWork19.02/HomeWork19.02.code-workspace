@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../img"
+		},
+		{
+			"path": "../../21.02/21.02.2/21.02.3/21.02.4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HomeWork19.02"
+	}
+}

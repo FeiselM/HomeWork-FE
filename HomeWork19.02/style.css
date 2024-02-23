@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.lorem {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 7px; 
+}
+
+.lorem2 {
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 7px; 
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+
+.lorem3 {
+    margin: 20px;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 7px; 
+    background-color: rgb(250, 4, 4);  
+    color: aliceblue;
+}
